@@ -1,9 +1,9 @@
 Package: com.kasper.hidedock
 Name: HideDock
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: enjoy bro)
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Description: Hide the Home Screen dock
 Maintainer: Artem Kasper
 Author: Artem Kasper
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: firmware (>= 15.0), ellekit
